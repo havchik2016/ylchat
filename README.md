@@ -1,2 +1,3 @@
 # ylchat
-This is yandexlyceum project for web, it is the most primitive interactive chat ever.
+Это проект Яндекс.Лицея по вебу, самый примитивный интерактивный чат за всю историю!
+В БД всего 2 аккаунта: test:test и test2:test2 для пущей свободы действий.
